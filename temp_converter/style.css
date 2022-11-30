@@ -1,0 +1,28 @@
+* {
+    background-color: rgba(113, 250, 250, 0.977);
+    color: black;
+  }
+  label {
+    font-size: 24px;
+  }
+  .container {
+    text-align: center;
+    margin-top: 250px;
+  }
+  input {
+    border-color: black;
+  
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20 px;
+  }
+  .button {
+    background-color: rgb(249, 210, 36);
+    color: black;
+  
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
